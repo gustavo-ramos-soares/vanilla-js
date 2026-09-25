@@ -1,0 +1,17 @@
+
+button{
+    padding: 5px;
+    height: 44px;
+    width: 44px;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+}
+i{
+    font-size: 30px;
+}
+.fa-sun{
+     
+    color: white;
+}
+
